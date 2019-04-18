@@ -1,0 +1,17 @@
+{
+        "name": "AD770X",
+        "keywords": "ad770x arduino",
+        "description": "ad770x for arduino",
+        "authors":
+        {
+          "name": "Greg Giannoni",
+          "email": "greg@wootech.art",
+          "url": "http://wooteh.art"
+        },
+
+        "repository":
+        {
+          "type": "git",
+          "url": "https://github.com/kerrydwong/AD770X"
+        }
+}

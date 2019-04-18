@@ -1,10 +1,6 @@
-AD770X
+AD7705
 ======
 
-Arduino Library for AD7705/AD7706
+Arduino Library for AD7705 (and maybe AD7706... not tested)
 
-This is an Arduino Library for AD7705/AD7706 A/D converter. More details can be found here:
-
-<a href="http://www.kerrywong.com/2012/04/18/ad7705ad7706-library-revisited/">AD7705/AD7706 Library Revisited</a><br />
-<a href="http://www.kerrywong.com/2011/03/20/ad7705ad7706-library/">AD7705/AD7706 Library</a>
-
+Lib inspired by Kerry R Wong's <a href="http://www.kerrywong.com/2011/03/20/ad7705ad7706-library/">AD7705/AD7706 Library</a> and Tom Biskupic's <a href="https://github.com/tom-biskupic/LabPSU">LabPSU</a>
